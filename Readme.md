@@ -2,7 +2,7 @@
 
 By Shreesha
 
-Here's the Live Deployed Website  [project01Badge](https://img.shields.io/badge/Project-01-red)
+Here's the Live Deployed Website  ![project01Badge](https://img.shields.io/badge/Project-01-red)
 
 [DEPLOYED WEBSITE LINK](https://html-live-project-01.netlify.app/)
 
